@@ -19,10 +19,8 @@ var agenda = [
     ]},
   {title: 'Красный зал',
     data: [
-      {key: 1, time: '9:30- 9:40', speaker: '',
-          title: 'Открытие конференции'},
-      {key: 2, time: '9:40- 10:00', speaker: 'Andy Shevchenko',
-          title: 'Typical mistakes when submitting a new code to linux kernel.'},
+      {key: 21, time: '9:40- 10:00', speaker: 'Alex Radetsky',
+          title: 'Как я слепил менее чем за сутки мобильное приложение используя React Native?'},
     ]},
 ];
 
