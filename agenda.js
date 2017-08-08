@@ -3,13 +3,13 @@
 var agenda = [
   {"title": 'Blue hall',
     data: [
-      {key: 1, time: '9:30- 9:55', speaker: '',
+      {key: 1, time: ' 9:30- 9:55', speaker: '',
           title: 'Registration'},
       {key: 2, time: '9:55- 10:00', speaker: 'Dmitry Kostyuk',
           title: 'Opening'},
-      {key: 3, time: '10:00-10:40', speaker: 'Eugene Pilyankevich',
+      {key: 3, time: '10:00- 10:40', speaker: 'Eugene Pilyankevich',
           title: 'Developing open-source security tooling: lessons to learn'},
-      {key: 4, time: '10:40-11:20', speaker: 'Ihor Dvoretskyi',
+      {key: 4, time: '10:40- 11:20', speaker: 'Ihor Dvoretskyi',
           title: 'Kubernetes'}
     ]},
   {title: 'Coffee break',
