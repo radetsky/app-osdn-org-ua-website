@@ -37,9 +37,7 @@ var agenda = [
     data: [
       {key: 12, time: '17:20- 18:00', speaker: 'Oleksii Kirichenko',
           title: 'How to build an openstack commercial cloud in less than 6 months'},
-      {key: 13, time: '18:00- 18:40', speaker: 'Mykyta Biliavskyi',
-          title: 'Enlightenment foundation libraries'},
-      {key: 14, time: '18:40', speaker: 'Dmitry Kostyuk',
+      {key: 14, time: '18:00', speaker: 'Dmitry Kostyuk',
           title: 'Closing speech'},
     ]},
 
@@ -59,10 +57,8 @@ var agenda = [
     ]},
   {title: 'Coffee break',
     data: [
-      {key: 25, time: '17:20- 18:00', speaker: 'Evgeniy Fedirets',
-          title: 'Openorienteering mapper: Довгий шлях до 1.0'},
-      {key: 26, time: '18:00- 18:40', speaker: '',
-          title: ''},
+      {key: 13, time: '17:20- 18:00', speaker: 'Mykyta Biliavskyi',
+          title: 'Enlightenment foundation libraries'},
     ]},
 ];
 
